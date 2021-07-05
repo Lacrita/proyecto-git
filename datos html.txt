@@ -1,0 +1,26 @@
+html: sistema de marcado - conjuntos de etiqueta - es el esqueleto del sitio web
+- no es un lenguaje de programacion.
+- en html5 no hace falta usar barra / para cerrar la etiqueta
+- title es loq ue se va a ver en la pestaña
+- head
+  meta charset
+  title
+  cierra head
+----
+pero dentro de Head, no va NADA del contenido que queremos que el sitio muestre, ni etiquetas h1 ni etiquetas br, ni hr
+
+-------
+
+con balsamiq armas el wireframe(boceto)
+
+-----
+
+LA etiqueta se abre sin barra y la se cierra con la misma etiqueta agrando una barra "/"
+
+ <hr/><!-- Se usa para comentario interno - <hr>
+<img src="">
+<br> para hacer un espacio dentro del parrafo. Simula la accion del "enter" / una imagen abajo de otra
+<hr>
+<p> parrafo
+dentro de la etiqueta body va a ir parrafo (p) imagenes (img src="") br y hr
+
